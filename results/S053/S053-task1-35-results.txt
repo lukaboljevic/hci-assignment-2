@@ -1,0 +1,5 @@
+Size: 45x2; EVENT: T1; NON-EVENT: T2
+LDA
+     Cross-valid-Test  Nrep  TP= 14 FN=  8; FP=  7 TN= 16; Se:  63.64 Sp:  69.57 CA:  66.67 AUC:  68.60
+QDA
+     Cross-valid-Test  Nrep  TP= 11 FN= 11; FP=  8 TN= 15; Se:  50.00 Sp:  65.22 CA:  57.78 AUC:  62.53
