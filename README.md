@@ -8,4 +8,4 @@ A bash script to download the records for subject S053 is found under `data/`. I
 
 The results are found under `results/S053`. The `txt` file names are of the format `SubjectID-task[1/2]-[order of band-pass FIR filter]-[feat(ure)v(ectors) / ref(erence class) / results].txt`.
 
-To run the program, and obtain all possible results, simply run `run.m` from MATLAB.
+To run the program, and obtain all possible results, simply run `run.m` from MATLAB. Of course, the input parameters can be changed to get results for whatever is needed.
