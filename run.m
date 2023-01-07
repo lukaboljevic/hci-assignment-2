@@ -16,6 +16,10 @@
 %         both feet (in runs 5, 6, 9, 10, 13, and 14)
 
 
+% First download records for S053, using the script `eegmmi.sh`
+% found under `data` folder. If on Windows, run with Git Bash.
+% If on Linux, it should work (not tested!)
+
 subject = "S053";
 readWhichList = [3 4];  % 3 - task 1, 4 - task 2, 5 - task 3, 6 - task 4
 nList = [20 35 50 60 75 90 100 115];
